@@ -55,3 +55,7 @@ The game is mathematically solved. If both players play optimally, the result wi
 Want to win more? Try to go first and take the center square – it gives you the highest chance of winning. 😎
 
 ## 🙌 Thanks for Playing!
+This project is perfect for anyone who wants to understand game
+loops, input handling, and simple AI logic. 
+
+Have fun and feel free to modify it!
